@@ -1,4 +1,5 @@
 ## code your solution here. 
 class Cat
-  attr_reader
-  attr_writer
+  attr_reader :name
+  attr_writer :name
+end
